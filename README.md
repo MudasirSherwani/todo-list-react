@@ -1,4 +1,33 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
+# 📖 Todo-List REACT <a name="about-project"></a>
+
+The todo list is a website similar to the "Awesome Books" website built in the previous module. I have created an MVP version of it that allows you to:
+
+Display a list todo.
+Add a todo item.
+Remove a selected todo item.
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -18,22 +47,22 @@
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a> Local Storage </a></li>
+    <li><a> API </a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- **Example of Single Page Application**
-- **Calculator**
-- **Consist of Three Pages**
+- **Add todo list**
+- **Display a list jobs.**
+- **Remove todo list.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Math Magician](https://yourdeployedapplicationlink.com)
+- [TDOD-LIST](https://ibaslogic.github.io/react-todo-project/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -44,7 +73,7 @@
 - Open GitHub URL of repositry.
 - Download Code repo in zip.
 - Extract and open repo folder into visual studio code or any other Text Editor Software.
-- GitHub Repositry URL: https://github.com/MudasirSherwani/math-magicians-react
+- GitHub Repositry URL: https://github.com/MudasirSherwani/todo-list-react.git
   To get a local copy up and running follow these simple example steps.
 
 
@@ -106,7 +135,7 @@ https://netlify.app/
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **Statistical Calculator**
+- [ ] **Update Book List.**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -115,7 +144,7 @@ https://netlify.app/
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/MudasirSherwani/math-magicians-react/issues).
+Feel free to check the [issues page](https://github.com/MudasirSherwani/todo-list-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,14 +159,14 @@ If you like this project please follow me on github and give stars to my repo.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thanks [Lucas David Erkana](https://github.com/Lucash2022) to guide me to complete this project.
+I would like to thanks Microverse to guide me to complete this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/MudasirSherwani/math-magicians-react/blob/Components/LICENSE.md) licensed.
+This project is [MIT](https://github.com/MudasirSherwani/todo-list-react/blob/Todo-list/LICENSE.md) licensed.
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
