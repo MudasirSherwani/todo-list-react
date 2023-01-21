@@ -3,9 +3,9 @@
 
 The todo list is a website similar to the "Awesome Books" website built in the previous module. I have created an MVP version of it that allows you to:
 
-Display a list of books.
-Add a book.
-Remove a selected book.
+Display a list todo.
+Add a todo item.
+Remove a selected todo item.
 
 # 📗 Table of Contents
 
