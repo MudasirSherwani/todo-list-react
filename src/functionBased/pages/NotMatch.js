@@ -1,10 +1,12 @@
-import React from 'react';
+import React from 'react'
 
-const NotMatch = () => (
-  <div>
-    <h3>
-      No match for this page
-    </h3>
-  </div>
-);
-export default NotMatch;
+const NotMatch = () => {
+  return (
+    <div>
+      <h3>
+        No match for this page
+      </h3>
+    </div>
+  )
+}
+export default NotMatch

@@ -1,143 +1,35 @@
-# Getting Started with Create React App
+## React Tutorial from Scratch– A Step-by-Step Guide (2021 Update)
 
-## 🛠 Built With <a name="built-with"></a>
+This repo holds all the code for a React todos application. You can follow the step by step [guide to building the awesome project here](https://ibaslogic.com/react-tutorial-for-beginners/).
 
-### Tech Stack <a name="tech-stack"></a>
-- HTML
-- CSS
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [React](https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/lessons/webpack_v1_1.md)
+## [Click to See the Todos App](https://ibaslogic.github.io/react-todo-project/)
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://netlify.app/">Netlify</a></li>
-  </ul>
-</details>
+The code is available in the `src` folder. In there, you’ll see two folders named `classBased` and `functionBased` holding the class component and function component code respectively.
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a> Local Storage </a></li>
-  </ul>
-</details>
+### Clone the project
 
-### Key Features <a name="key-features"></a>
+You can download or clone this project by running this command from your terminal:
 
-- **Example of Single Page Application**
-- **Calculator**
-- **Consist of Three Pages**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Math Magician](https://yourdeployedapplicationlink.com)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-- Open GitHub URL of repositry.
-- Download Code repo in zip.
-- Extract and open repo folder into visual studio code or any other Text Editor Software.
-- GitHub Repositry URL: https://github.com/MudasirSherwani/math-magicians-react
-  To get a local copy up and running follow these simple example steps.
-
-
-### Prerequisites
-- Visual Studio Code
-- Knowldege About HTML / CSS / JAVASCRIPT ES6
-- Webhint
-- Stylelint
-- ESLint
-- node_modules checker
-- Github
-
-
-### Install
-
-Install this project with:
-
-```sh
-  npm install
+```
+git clone https://github.com/Ibaslogic/react-todo-app
 ```
 
+This will create a directory in the name of the project folder.
 
-### Usage
+Once you have the project files and folders bootstrapped, open it with your text editor.
 
-To run the project in a development server, execute the following command:
+Next, switch inside the project directory and run:
 
-```sh
-  npm start
+```
+npm install
 ```
 
-### Testing
+This will install all the necessary dependencies in the local `node_modules` folder.
 
-To run the tests in a development server, execute the following command:
+Finally, start your development server by running:
 
-```sh
-  npm test
+```
+npm start
 ```
 
-### Deployment
-
-You can deploy this project using:
-
-https://netlify.app/
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Authors
-
-👤 **Mudasir Sherwani**
-
-- GitHub: [@Mudasir Sherwani](https://github.com/MudasirSherwani)
-- Twitter: [@Mudasir Sherwani](https://twitter.com/mudasirsherwani)
-- LinkedIn: [Mudasir Sherwani](https://linkedin.com/in/mudasir-ashraf-071321a4)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🔭 Future Features <a name="future-features"></a>
-
-
-- [ ] **Statistical Calculator**
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/MudasirSherwani/math-magicians-react/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## ⭐️ Show your support <a name="support"></a>
-
-If you like this project please follow me on github and give stars to my repo.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
-I would like to thanks [Lucas David Erkana](https://github.com/Lucash2022) to guide me to complete this project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](https://github.com/MudasirSherwani/math-magicians-react/blob/Components/LICENSE.md) licensed.
- 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
